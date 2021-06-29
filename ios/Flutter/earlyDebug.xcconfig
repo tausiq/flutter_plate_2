@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-early.dart
+
+ASSET_PREFIX=early
+BUNDLE_NAME=Flutter Plate (Early)

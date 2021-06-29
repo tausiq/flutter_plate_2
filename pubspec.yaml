@@ -89,11 +89,11 @@ flavorizr:
       android:
         applicationId: "com.genericslab.flutterplate.dev"
         firebase:
-          config: ".firebase/development/google-services.json"
+          config: "firebase/development/google-services.json"
       ios:
         bundleId: "com.genericslab.flutterplate.dev"
         firebase:
-          config: ".firebase/development/GoogleService-Info.plist"
+          config: "firebase/development/GoogleService-Info.plist"
 
     staging:
       app:
@@ -101,11 +101,11 @@ flavorizr:
       android:
         applicationId: "com.genericslab.flutterplate.stg"
         firebase:
-          config: ".firebase/staging/google-services.json"
+          config: "firebase/staging/google-services.json"
       ios:
         bundleId: "com.genericslab.flutterplate.stg"
         firebase:
-          config: ".firebase/staging/GoogleService-Info.plist"
+          config: "firebase/staging/GoogleService-Info.plist"
 
     early:
       app:
@@ -113,11 +113,11 @@ flavorizr:
       android:
         applicationId: "com.genericslab.flutterplate.erly"
         firebase:
-          config: ".firebase/early/google-services.json"
+          config: "firebase/early/google-services.json"
       ios:
         bundleId: "com.genericslab.flutterplate.erly"
         firebase:
-          config: ".firebase/early/GoogleService-Info.plist"
+          config: "firebase/early/GoogleService-Info.plist"
 
     production:
       app:
@@ -125,11 +125,11 @@ flavorizr:
       android:
         applicationId: "com.genericslab.flutterplate"
         firebase:
-          config: ".firebase/production/google-services.json"
+          config: "firebase/production/google-services.json"
       ios:
         bundleId: "com.genericslab.flutterplate"
         firebase:
-          config: ".firebase/production/GoogleService-Info.plist"
+          config: "firebase/production/GoogleService-Info.plist"
 
   assetsUrl: "https://github.com/AngeloAvv/flutter_flavorizr/releases/download/v2.0.0/assets.zip"
   ide: "idea"

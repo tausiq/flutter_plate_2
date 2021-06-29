@@ -46,3 +46,12 @@ app.*.map.json
 /android/app/release
 
 /firebase/*
+/android/app/src/development/google-services.json
+/android/app/src/early/google-services.json
+/android/app/src/production/google-services.json
+/android/app/src/staging/google-services.json
+/ios/Runner/development/GoogleService-Info.plist
+/ios/Runner/early/GoogleService-Info.plist
+/ios/Runner/production/GoogleService-Info.plist
+/ios/Runner/staging/GoogleService-Info.plist
+/ios/Runner/GoogleService-Info.plist

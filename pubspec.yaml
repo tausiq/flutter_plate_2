@@ -25,6 +25,7 @@ dependencies:
   animations: ^2.0.0
   cached_network_image: ^3.0.0
   file_picker: ^3.0.3
+  firebase_auth: ^1.4.1
   fl_chart: ^0.36.2
   flutter:
     sdk: flutter

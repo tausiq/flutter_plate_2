@@ -38,6 +38,7 @@ dependencies:
   hive: ^2.0.4
   hive_flutter: ^1.1.0
   introduction_screen: ^2.1.0
+  package_info_plus: ^1.0.3
   path_provider: ^2.0.2
   permission_handler: ^8.1.2
   sentry_flutter: ^5.1.0

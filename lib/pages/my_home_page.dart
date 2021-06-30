@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_plate_2/env/flavors.dart';
+
+import '../env/flavors.dart';
 
 class MyHomePage extends StatelessWidget {
   @override
